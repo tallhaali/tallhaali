@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there
+
 
 - **How to reach me:**
-  - 💼 LinkedIn: [talha-al](https://www.linkedin.com/in/talha-al/)
+  - LinkedIn: [talha-al](https://www.linkedin.com/in/talha-al/)
 
 I build and maintain full-stack web applications, manage cloud infrastructure, and handle everything from CI/CD pipelines to large-scale data migrations. I'm currently pursuing my **B.S. in Software Engineering** at the **University of Karachi** while working as a Full Stack Engineer at Texas Global Traders. 
 
@@ -11,7 +12,7 @@ Whether it's architecting an e-commerce platform with dynamic pricing, configuri
 
 ### Talha Ali's GitHub Stats
 
-[![Talha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tallhaali&theme=radical)](https://github.com/tallhaali)
+[![Talha's GitHub Streak](https://streak-stats.demolab.com/?user=tallhaali&theme=radical)](https://github.com/tallhaali)
 
 ---
 
@@ -43,7 +44,7 @@ Whether it's architecting an e-commerce platform with dynamic pricing, configuri
 
 ---
 
-### What I'm Currently Working On 🚀
+### What I'm Currently Working On
 
 - **Fast Print Guys (FPG):** Managing full-stack AWS infrastructure, real-time React pricing calculators, and a custom Django ticketing system.
 - **Freelance E-Commerce:** Replicating complex UI designs and migrating stores across Shopify for brands like Pasadena Florist, Skin Care Pakistan, and Grocee.
