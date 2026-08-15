@@ -1,6 +1,5 @@
 ### Hi there
 
-- **Pronouns:** He/Him
 - **How to reach me:**
   - LinkedIn: [talha-al](https://www.linkedin.com/in/talha-al/)
 
