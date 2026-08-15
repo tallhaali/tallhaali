@@ -10,25 +10,6 @@ Whether it's architecting an e-commerce platform with dynamic pricing, configuri
 
 ---
 
-### Talha Ali's GitHub Summary
-
-<div align="center">
-  <img src="profile-summary-cards-output/radical/0-profile-details.svg" width="100%" alt="Profile Details">
-</div>
-<br>
-<div align="center">
-  <img src="profile-summary-cards-output/radical/1-repos-per-language.svg" width="32%" alt="Repos Per Language">
-  <img src="profile-summary-cards-output/radical/2-commits-per-language.svg" width="32%" alt="Commits Per Language">
-  <img src="profile-summary-cards-output/radical/4-commits-per-repo.svg" width="32%" alt="Commits Per Repo">
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/tallhaali">
-    <img src="https://streak-stats.demolab.com/?user=tallhaali&theme=radical" alt="GitHub Streak">
-  </a>
-</div>
-
----
 
 ### Skills
 
